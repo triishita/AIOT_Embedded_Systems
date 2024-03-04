@@ -7,5 +7,5 @@ void setup()
 void loop()
 {
   int temp = analogRead(A0);
-  Serial.println(temp);
+  Serial.println(temp); //max temp is 125{output:358) and min temp is -40(output:20)
 }
