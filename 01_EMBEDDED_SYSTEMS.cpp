@@ -1,5 +1,4 @@
-// C++ code
-//
+//Basic C++ code of Arduino Uno R3
 void setup()
 {
   pinMode(LED_BUILTIN, OUTPUT);
