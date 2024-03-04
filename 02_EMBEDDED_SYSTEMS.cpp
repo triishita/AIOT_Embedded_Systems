@@ -7,5 +7,6 @@ void setup()
 
 void loop()
 {
-  Serial.print("Hello World"); //this is the final output
+  Serial.print("Hello World"); //this prints the final output
+  //use println to print in different line
 }
